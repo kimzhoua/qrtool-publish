@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 1,\n  \"versionName\": \"1.0.0\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/qrtool-publish/main/dist/app-1.0.0.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/qrtool-publish/main/dist/app-1.0.0.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/qrtool-publish/main/dist/update.json\",\n  \"sha256\": \"07cd41779316a47ee7f7366a63bf59527887a8026d2b544de826f63396477943\",\n  \"notes\": \"首个版本：生成二维码、相机扫码、从图片识别，支持在线更新\"\n}",
+  "sig": "QQqdNNWTcl+Jr2WRPWisxpnxbtUGoy7OVSXtYcN/+/7QUGmrOns4/V2AoIinmTRrZQqDnL9BRyCJXt3LEQ9mjcZb9bhuTOg/JElAoWb5FvoBFRHnDiLYD7+E/3hxHBdNoSGIUvJgV+rMOO0rc1KugNFl2ALwiSX7wrZb0B1rtbLc0TDw1Ha+7jv6p7n47sGzrBEG3xMz49DTOYnC6bmaa+Svyye50yNPjZiz7RpoAdm/BJ6Xx/HbaYEQPaHf49Pl3rBNM5DHkqNI4nBRLR3CBMBVhv1CUUQzWPBO7jCOpdgc54vKyWQs24Ea0u+e8/qPAlVUokExeJyENAJ1AXO0Aw=="
+}
